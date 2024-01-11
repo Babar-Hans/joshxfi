@@ -11,7 +11,10 @@
 </div>
 
 <br>
-
+![Babar-Hans's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Babar-Hans&theme=highcontrast&hide_border=true)
+![Babar-Hans's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Babar-Hans&theme=highcontrast&hide_border=true)
+![Babar-Hans's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Babar-Hans&theme=highcontrast&hide_border=true)
+![Babar-Hans's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Babar-Hans&theme=highcontrast&hide_border=true)
 <!-- <div align=center>
   
   | ![](https://komarev.com/ghpvc/?username=joshxfi&color=blue) |
